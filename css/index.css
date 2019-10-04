@@ -42,6 +42,8 @@
     justify-content: center;
 }
 
+/* Box Styling */
+
 .box:nth-child(1) {
     background-color: teal;
 }

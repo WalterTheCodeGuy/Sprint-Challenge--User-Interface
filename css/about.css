@@ -1,0 +1,11 @@
+.aboutTop {
+  border-bottom: 1px dashed black;
+  padding: 5px 10px 15px 10px;
+}
+
+.boxes {
+  width: 100%;
+  padding-top: 35px;
+  display: flex;
+  justify-content: space-between;
+}

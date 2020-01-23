@@ -1,0 +1,42 @@
+.aboutTop {
+  border-bottom: 1px dashed black;
+  padding: 5px 10px 15px 10px;
+}
+
+.boxes {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.box {
+  width: 48%;
+  border-bottom: 1px dashed black;
+  padding: 35px 0 25px;
+}
+
+.box h2 {
+  padding-top: 10px;
+}
+
+.box p {
+  padding-bottom: 25px;
+}
+
+.box a {
+  text-decoration: none;
+  color: black;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px 25px;
+}
+
+.box a:hover {
+  background-color: black;
+  color: white;
+}
+
+.aboutBottom {
+  padding: 30px 0;
+}
